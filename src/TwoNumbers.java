@@ -1,6 +1,17 @@
 public class TwoNumbers {
     public static void main(String[] args) {
-        //TODO: Write a Java program that will accept two numbers and check if two numbers are equal or not.
+        short Sayı1= 5;
+        short Sayı2=6;
+
+
+        if (Sayı1==Sayı2)
+        {
+            System.out.println("Girilen Sayılar Eşittir");
+        }
+        else
+        {
+            System.out.println("Girilen Sayılar Eşittir Değildir");
+        }
 
     }
 }
