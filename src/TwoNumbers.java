@@ -10,7 +10,7 @@ public class TwoNumbers {
         }
         else
         {
-            System.out.println("Girilen Sayılar Eşittir Değildir");
+            System.out.println("Girilen Sayılar Eşit Değildir");
         }
 
     }
